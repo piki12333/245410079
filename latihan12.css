@@ -4,7 +4,7 @@ header, section, footer, aside, figure, figcaption{
     body{
     color: #666666;
     background-color: #f9f8f6;
-    background-image: url("latar.jpg");
+    background-image: url("image/latar.jpg");
     background-position: center;
     font-family: georgia,Times,serif;
     line-height: 1.4em;
@@ -18,7 +18,7 @@ header, section, footer, aside, figure, figcaption{
     }
     header {
     height: 160px;
-    background-image: url(header1.png);
+    background-image: url(image/header1.png);
     }
     h1{
     text-indent: -9999px;
